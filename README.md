@@ -9,6 +9,9 @@ sales. Raw transaction, store, product, and customer tables were cleaned in
 
 ---
 
+## Final Dashboard 
+![alt text](assets/dashboard.png)
+
 ## Headline numbers
 
 | Metric | Value |
