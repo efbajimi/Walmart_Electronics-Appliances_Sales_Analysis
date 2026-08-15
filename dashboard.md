@@ -7,9 +7,6 @@ single-page dashboard for appliance and electronics sales. Because the model's
 relationships were already defined, every visual filters and cross-highlights the
 others — clicking a region, state, or product reflows the whole page.
 
-## The dashboard
-
-![Power BI dashboard: KPI cards for gross revenue and gross profit, a revenue-by-region bar chart, product and store revenue tables, and a US state map](../assets/dashboard.png)
 
 ## Visuals on the page
 
