@@ -29,9 +29,6 @@ With the model in place I built a PivotTable to summarize **Gross Revenue** and
 
 The full export is in [`data/pivot_summary.csv`](../data/pivot_summary.csv).
 
-## The PivotTable
-
-![PivotTable summarizing revenue and profit by region, state, and store, split by product category](../assets/pivot-table.png)
 
 ## Region-level summary
 
