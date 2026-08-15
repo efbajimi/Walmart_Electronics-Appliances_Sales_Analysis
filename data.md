@@ -4,13 +4,6 @@ The project is built on **four tables** exported to CSV. Together they form a
 star schema: `transactions` is the fact table, and `stores`, `products`, and
 `customers` are dimensions that describe it.
 
-| Table | File | Rows | Role |
-|---|---|--:|---|
-| Transactions | [`data/transactions.csv`](../data/transactions.csv) | 5,000 | Fact — one row per sale |
-| Stores | [`data/stores.csv`](../data/stores.csv) | 50 | Dimension — store attributes |
-| Products | [`data/products.csv`](../data/products.csv) | 50 | Dimension — product catalog |
-| Customers | [`data/customers.csv`](../data/customers.csv) | 1,200 | Dimension — customer profiles |
-
 The original combined workbook is included as
 [`Walmart_data_project.xlsb`](../Walmart_data_project.xlsb).
 
